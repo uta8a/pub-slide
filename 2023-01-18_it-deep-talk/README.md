@@ -12,7 +12,7 @@ pdf: [こちら](it_deep_talk.pdf)
   - lume: https://lume.land/
   - pluginのインターフェースが統一されていて使いやすい
   - 例としてlume.land自体が参考になる: [github.com/lumeland/lume.land](https://github.com/lumeland/lume.land)
-  - 僕がlumeを作って書いたサイト
+  - 僕がlumeを使って書いたサイト
     - [新年の抱負くじ](https://lottery.uta8a.net/): 新年の抱負100個
     - [knowledge.uta8a.net](https://knowledge.uta8a.net/) 知っていることと知らないことの整理
 - 研究でのLaTeX環境
